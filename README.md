@@ -1,5 +1,3 @@
-# My.Site
+# My Personal Website
 
- this will be my first website ever made by me
-
- I want to create a personal website to show my knowledge about programming languages ​​and their development.
+I am creating this website to showcase my skills and knowledge in various programming languages and their development.
