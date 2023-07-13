@@ -89,10 +89,9 @@ section {
     cursor: pointer;
     display: none;
 }
-
 .home {
     height: 100vh;
-    background: url('image.png') no-repeat;
+    background: url('/static/images/image.png') no-repeat;
     background-size: 700px;
     background-position: right 55px;
     display: flex;
